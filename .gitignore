@@ -1,0 +1,4 @@
+credentials.local.json
+shared-state.local.json
+.tools/
+node_modules/
